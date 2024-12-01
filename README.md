@@ -10,3 +10,6 @@ But now is the day i lean GO so enjoy my terrible code !
 | Year | Progress | Number of days |
 | ---- | -- | ---------------|
 | 2024 | 🌟 | 1/25 days |
+
+##
+🎅 Happy Coding and enjoy the holiday season!
