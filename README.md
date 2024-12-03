@@ -9,7 +9,7 @@ But now is the day i lean GO so enjoy my terrible code !
 ## Progress
 | Year | Progress | Number of days |
 | ---- | -- | ---------------|
-| 2024 | 🌟 | 1/25 days |
+| 2024 | 🌟⭐🌟 | 3/25 days |
 
 ## Licence
 This project is published under the Do What The F*ck You Want Public License. So have fun doing whatever the f*ck you want ! :D
